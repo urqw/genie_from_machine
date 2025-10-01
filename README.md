@@ -2,7 +2,7 @@
 
 Text-based game "The Genie from the Machine" (Russian: "Джинн из машины") by Evgeniy Tugolukov (Russian: Евгений Туголуков), a.k.a. Korwin.
 
-The game is in Russian, developed for URQ_DOS, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
+The game is in Russian, developed for URQ_DOS(wcl) and AkURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
 This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#genie_from_machine).
 
