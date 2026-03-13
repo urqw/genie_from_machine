@@ -4,7 +4,7 @@ Text-based game "The Genie from the Machine" (Russian: "Джинн из маши
 
 The game is in Russian, developed for URQ_DOS(wcl) and AkURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#genie_from_machine).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=genie_from_machine).
 
 The game was first published on October 15, 2006.
 
